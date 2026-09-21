@@ -2,7 +2,6 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="generator" content="ReText 8.0.2">
-<title>readme</title>
 </head>
 <body>
 <h1>MT6835 Angle Sensor on ESP32-S3</h1>
